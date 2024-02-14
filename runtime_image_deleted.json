@@ -1,0 +1,10 @@
+{
+    "items": [
+        {
+            "digest": "SHA_DIGEST_1",
+            "status": "deleted",
+            "uaiId": "UAI_ID_1",
+            "computeId": "COMPUTE_ID_1"
+        }
+    ]
+}
