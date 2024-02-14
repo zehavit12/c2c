@@ -1,0 +1,52 @@
+{
+    "items": [
+        {
+            "casRepoId": "7d46f47e-dab6-404f-9654-e71ea4f9a33c",
+            "digest": "SHA_DIGEST_1",
+            "status": "active",
+            "uaiId": "UAI_ID_1",
+            "computeId": "COMPUTE_ID_1"
+        },
+        {
+            "casRepoId": "7d46f47e-dab6-404f-9654-e71ea4f9a33c",
+            "digest": "SHA_DIGEST_2",
+            "status": "active",
+            "uaiId": "UAI_ID_2",
+            "computeId": "COMPUTE_ID_2"
+        },
+        {
+            "casRepoId": "7d46f47e-dab6-404f-9654-e71ea4f9a33c",
+            "digest": "SHA_DIGEST_3",
+            "status": "active",
+            "uaiId": "UAI_ID_3",
+            "computeId": "COMPUTE_ID_3"
+        },
+        {
+            "casRepoId": "3896c83e-7cbe-425e-b9ea-5a6bd91c2386",
+            "digest": "SHA_DIGEST_1",
+            "status": "active",
+            "uaiId": "UAI_ID_1",
+            "computeId": "COMPUTE_ID_1"
+        },
+        {
+            "casRepoId": "3896c83e-7cbe-425e-b9ea-5a6bd91c2386",
+            "digest": "SHA_DIGEST_2",
+            "status": "active",
+            "uaiId": "UAI_ID_2",
+            "computeId": "COMPUTE_ID_2"
+        },
+        {
+            "casRepoId": "3896c83e-7cbe-425e-b9ea-5a6bd91c2386",
+            "digest": "SHA_DIGEST_3",
+            "status": "active",
+            "uaiId": "UAI_ID_3",
+            "computeId": "COMPUTE_ID_3"
+        },
+        {
+            "digest": "asdad-asdasdas-asdsasdd-asdasd",
+            "status": "deleted",
+            "uaiId": "UAI_ID_4",
+            "computeId": "COMPUTE_ID_4"
+        }
+    ]
+}
